@@ -7,7 +7,7 @@
         "ghcr.io/devcontainers/features/azure-cli:1": {
           "version" : "latest"  
         },
-        "ghcr.io/devcontainers/features/vscode-remote-try-python:0.0.1": {
+        "ghcr.io/devcontainers/features/python": {
             "version": "0.0.1"
         }
     },
