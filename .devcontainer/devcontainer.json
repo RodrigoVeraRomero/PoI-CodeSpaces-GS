@@ -17,5 +17,8 @@
                 "codespace.md"
             ]
         }
-    }
+    },
+    // add lines to codespace.md to test the extension
+    "postCreateCommand": "echo 'Hello, Codespaces Copilot!' >> codespace.md"
+    
   }
