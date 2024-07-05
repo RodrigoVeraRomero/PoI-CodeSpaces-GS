@@ -2,6 +2,5 @@
 
 sudo apt-get update
 sudo apt-get install sl
-sudo apt install npm
-sudo npx create-react-app my-app
+sudo npm -g install create-react-app
 export PATH=$PATH:/usr/games
